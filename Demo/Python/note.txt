@@ -1,0 +1,90 @@
+Build a complete beginner-friendly Python Introduction project for a 60-90 minute presentation and hands-on workshop.
+
+Requirements:
+
+Target Audience:
+
+* People with little or no programming experience.
+* No prior Python knowledge required.
+
+Project Structure:
+
+1. Introduction to Python
+
+   * What Python is
+   * Common use cases (automation, web development, AI, data analysis, testing)
+   * Advantages of Python
+
+2. Environment Setup
+
+   * Install Python
+   * Verify installation
+   * Create and run the first Python script
+
+3. Python Basics
+
+   * Variables
+   * Data types (string, integer, float, boolean)
+   * Input and output
+   * Comments
+
+4. Control Flow
+
+   * if / elif / else
+   * for loops
+   * while loops
+
+5. Functions
+
+   * Defining functions
+   * Parameters
+   * Return values
+
+6. Collections
+
+   * Lists
+   * Dictionaries
+   * Tuples
+   * Sets
+
+7. Error Handling
+
+   * try / except
+   * Common beginner mistakes
+
+8. Practical Demo Project
+   Create a simple "Personal Expense Tracker" command-line application that demonstrates:
+
+   * Variables
+   * Loops
+   * Functions
+   * Lists and dictionaries
+   * User input
+   * Error handling
+
+Deliverables:
+
+* Complete project folder structure
+* Well-commented Python code
+* README.md explaining each concept
+* Presentation outline with speaker notes
+* Practice exercises after each section
+* Solutions for exercises
+* Beginner-friendly explanations
+* Best practices and common pitfalls
+
+Coding Standards:
+
+* Use Python 3.12+
+* Follow PEP 8 style guidelines
+* Keep code simple and readable
+* Add comments explaining important concepts
+
+Output:
+
+1. Project folder structure
+2. README.md content
+3. Source code files
+4. Presentation outline (10-15 slides)
+5. Practice exercises and solutions
+6. Suggested learning resources
